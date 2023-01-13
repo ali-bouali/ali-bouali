@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **spring-data-jpa-pro-class**
 
-- 👨‍💻 All of my projects are available at [https://alibouciding.com/courses](https://alibouciding.com/courses)
+- 👨‍💻 All of my projects are available at [https://aliboucoding.com/courses](https://aliboucoding.com/courses)
 
-- 📝 I regularly write articles on [https://alibouciding.com](https://alibouciding.com)
+- 📝 I regularly write articles on [https://aliboucoding.com](https://aliboucoding.com)
 
 - 💬 Ask me about **Spring, Java, Docker, Kubernetes, AWS, Angular, Testing, ....**
 
