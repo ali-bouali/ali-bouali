@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Bouali</h1>
-<h3 align="center">A passionate Software Engineer from Tunisia</h3>
+<h3 align="center">A passionate Software Engineer from Tunisia living in Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-bouali&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bouali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-bouali" alt="ali-bouali" /></a> </p>
 
-- 🔭 I’m currently working on **spring-data-jpa-pro-class**
+- 🔭 I’m currently working on **smicro-services professional class**
 
 - 👨‍💻 All of my projects are available at [https://aliboucoding.com/courses](https://aliboucoding.com/courses)
 
