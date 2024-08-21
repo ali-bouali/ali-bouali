@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Bouali</h1>
-<h3 align="center">A passionate Software Engineer from Tunisia living in Germany</h3>
+<h3 align="center">A passionate Software Engineer from Tunisia living in Germany</h3> 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2101QXR)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-bouali&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bouali" /> </p>
 
